@@ -25,7 +25,7 @@
 <h3>Where to find me</h3>
   <a href="https://www.linkedin.com/in/saad-amien/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
   <a href="https://twitter.com/saad_amien"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
-  <a href="https://medium.com/@saadamien6" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@saadamien6" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
   </p>
 </ div>
 <! ### :woman_technologist: About Me :
