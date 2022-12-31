@@ -23,8 +23,35 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
-
 </p>
+<h3>ETL Tools:</h3>
+<ul>
+  <li>SSIS</li>
+  <li>IBM Data Stage</li>
+  <li>Azure Data Factory</li>
+</ul>
+<h3>Big Data Tools:</h3>
+<ul>
+  <li>Apache Hadoop</li>
+  <li>Apache Spark</li>
+  <li>Apache Hive</li>
+  </ul>
+  <h3>Cloud Platforms:</h3>
+<ul>
+  <li>Google Cloud Platform</li>
+  <li>Azure</li>
+</ul>
+ <h3>scheduling Jobs:</h3>
+<ul>
+  <li>Apache Airflow</li>
+  <li>Cron </li>
+</ul>
+<h3>Programming Languages:</h3>
+<ul>
+  <li>Python</li>
+  <li>C++</li>
+</ul>
+  
 <div>
 <h3>Where to find me</h3>
   <a href="https://www.linkedin.com/in/saad-amien/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
