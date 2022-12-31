@@ -3,10 +3,8 @@
 <img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="100"/>
 </div>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Saad, Data Engineer & Bi developer </p>
-
-<from <img src="https://i.pinimg.com/564x/cf/56/c5/cf56c58ff0bf1bbd93df7be9c322c3a2.jpg" width="13"/>  Giza, Egypt, currently living in -->
-< src="https://i.pinimg.com/564x/cf/56/c5/cf56c58ff0bf1bbd93df7be9c322c3a2.jpg" width="13"/> Riyadh, Saudi Arabia</b>.
+<p>Welcome to my page! </br> I'm Saad, Data Engineer & Bi developer, from <img src="https://i.pinimg.com/564x/cf/56/c5/cf56c58ff0bf1bbd93df7be9c322c3a2.jpg" width="13"/>  Giza, Egypt, currently living at 
+<img src="https://cdn-icons-png.flaticon.com/512/321/321258.png" width="14"/> Riyadh, Saudi Arabia</b>.
 
 <h3>Tools and Technologies I Work with</h3>
 <p>
