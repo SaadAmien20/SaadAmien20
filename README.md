@@ -1,4 +1,14 @@
-
+<style type="text/css">
+#container {
+ width:50%;
+ background:#FFFFCC;
+}
+.list {
+ float:left;
+ width:49.9%;
+}
+.list div {border:1px solid #000}
+</style>
 <div  align="center" >
 <img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="100"/>
 </div>
@@ -24,6 +34,48 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
 </p>
+ <table border="0">
+        <tr> 
+            <th>ETL Tools </th>
+            <th>Big Data Tools </th>
+            <th>Cloud Platforms </th>
+            <th>Programming Languages </th>
+            <th>Scheduling Jobs</th>
+          </tr>
+        <tr>
+            <td>
+                <ul><li>SSIS</li>
+                <li>IBM Data Stage</li>
+                <li>Azure Data Factory</li>
+            </ul>
+        </td>
+        <td>
+            <ul><li>Apache Hadoop</li>
+                <li>Apache Spark</li>
+                <li>Apache Hive</li></ul>
+        </td>
+        <td> 
+            <ul>
+                <li>Google Cloud Platform</li>
+                <li>Azure</li>
+              </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Python</li>
+                <li>C++</li>
+              </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Apache Airflow</li>
+                <li>Cron </li>
+              </ul>
+        </td>
+    </tr>
+    </table>
+    <!--
+<div id="container"> 
 <h3>ETL Tools:</h3>
 <ul>
   <li>SSIS</li>
@@ -51,14 +103,14 @@
   <li>Python</li>
   <li>C++</li>
 </ul>
-  
-<div>
+  </div>
+<div>-->
 <h3>Where to find me</h3>
   <a href="https://www.linkedin.com/in/saad-amien/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
   <a href="https://twitter.com/saad_amien"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
   <a href="https://medium.com/@saadamien6" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
   </p>
-</ div>
+</ div> 
 <! ### :woman_technologist: About Me :
 🌱 I’m currently learning ...
 💞️ I’m looking to collaborate on ...
