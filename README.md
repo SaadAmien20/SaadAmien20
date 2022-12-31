@@ -1,14 +1,3 @@
-<style type="text/css">
-#container {
- width:50%;
- background:#FFFFCC;
-}
-.list {
- float:left;
- width:49.9%;
-}
-.list div {border:1px solid #000}
-</style>
 <div  align="center" >
 <img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="100"/>
 </div>
