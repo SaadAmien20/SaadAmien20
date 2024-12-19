@@ -30,12 +30,14 @@
             <th>Cloud Platforms </th>
             <th>Programming Languages </th>
             <th>Scheduling Jobs</th>
+            <th>Operations</th>
           </tr>
         <tr>
             <td>
                 <ul><li>SSIS</li>
                 <li>IBM Data Stage</li>
                 <li>Azure Data Factory</li>
+                <li>Apache Nifi</li>
             </ul>
         </td>
         <td>
@@ -60,6 +62,11 @@
                 <li>Apache Airflow</li>
                 <li>Cron </li>
               </ul>
+        </td>
+        <td>
+            <ul> <li>Docker</li>
+                <li>kubernetes</li>
+                <li>K9s, Lens</li></ul>
         </td>
     </tr>
     </table>
@@ -96,8 +103,8 @@
 <div>-->
 <h3>Where to find me</h3>
   <a href="https://www.linkedin.com/in/saad-amien/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
-  <a href="https://twitter.com/saad_amien"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
-  <a href="https://medium.com/@saadamien6" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+   <!-- <a href="https://twitter.com/saad_amien"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
+  <a href="https://medium.com/@saadamien6" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a> -->
   </p>
 </ div> 
 <! ### :woman_technologist: About Me :
